@@ -1,0 +1,44 @@
+﻿  OOP_Project.cpp
+D:\projects vs\OOP_Project\OOP_Project\clsDate.h(2,32): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsString.h(64,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsString.h(330,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsString.h(352,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsUtil.h(11,14): warning C4091: 'static ': ignored on left of 'clsUtil::CharType' when no variable is declared
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsbanckClient.h(434,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsbanckClient.h(450,23): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsAddNewClientScreen.h(25,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsUpdateClient.h(48,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsDepistScreen.h(63,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsWithdrawScreen.h(59,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsTransferScreen.h(70,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsUpdateRateScreen.h(85,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP_Project.cpp')
+  
+D:\projects vs\OOP_Project\OOP_Project\clsScreen.h(57,1): warning C4715: 'clsScreen::CheckAccess': not all control paths return a value
+D:\projects vs\OOP_Project\OOP_Project\clsUser.h(326,1): warning C4715: 'clsUser::Save': not all control paths return a value
+D:\projects vs\OOP_Project\OOP_Project\clsbanckClient.h(236,1): warning C4715: 'clsbanckClient::_getTransferRecords': not all control paths return a value
+  OOP_Project.vcxproj -> D:\projects vs\OOP_Project\x64\Debug\OOP_Project.exe
